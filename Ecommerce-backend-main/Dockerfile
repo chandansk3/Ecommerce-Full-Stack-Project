@@ -4,14 +4,17 @@ FROM openjdk:17-jdk-slim
 # Set working directory
 WORKDIR /app
 
-# Copy all files
+# Copy project files
 COPY . .
 
-# Build the project using Maven Wrapper (skipping tests)
+# Give execute permission to Maven Wrapper
+RUN chmod +x ./mvnw
+
+# Build the project (skipping tests)
 RUN ./mvnw clean package -DskipTests
 
-# Expose the port
+# Expose backend port
 EXPOSE 8080
 
-# Run the JAR file dynamically
+# Run the JAR file
 CMD sh -c "java -jar target/*.jar"
