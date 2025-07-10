@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Full-Stack-Project/static/css/main.59a76b59.css",
+    "main.js": "/Ecommerce-Full-Stack-Project/static/js/main.f4e54994.js",
+    "static/media/bootstrap-icons.woff?": "/Ecommerce-Full-Stack-Project/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/About.webp": "/Ecommerce-Full-Stack-Project/static/media/About.661e2f82c02827fe45ad.webp",
+    "static/media/bootstrap-icons.woff2?": "/Ecommerce-Full-Stack-Project/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/dashbord1.jpg": "/Ecommerce-Full-Stack-Project/static/media/dashbord1.5567f0bc40303ac80a3a.jpg",
+    "static/media/dashbord3.jpg": "/Ecommerce-Full-Stack-Project/static/media/dashbord3.3569455fb4eafdb2633c.jpg",
+    "static/media/dashbord2.jpg": "/Ecommerce-Full-Stack-Project/static/media/dashbord2.b578ccac181f9862e817.jpg",
+    "static/media/logo.png": "/Ecommerce-Full-Stack-Project/static/media/logo.92816a94985738badacb.png",
+    "index.html": "/Ecommerce-Full-Stack-Project/index.html",
+    "main.59a76b59.css.map": "/Ecommerce-Full-Stack-Project/static/css/main.59a76b59.css.map",
+    "main.f4e54994.js.map": "/Ecommerce-Full-Stack-Project/static/js/main.f4e54994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a76b59.css",
+    "static/js/main.f4e54994.js"
+  ]
+}
